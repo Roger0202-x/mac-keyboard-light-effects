@@ -38,7 +38,7 @@
 - Apple Silicon MacBook
 - 具備內建鍵盤背光
 - 安裝時需要 Xcode Command Line Tools 提供的 `clang`
-- 通知閃燈第一次啟用時，macOS 可能要求「輔助使用」權限
+- 通知閃燈不需要「輔助使用」或「螢幕錄製」權限，只辨識通知中心短暫出現的系統覆蓋層，不讀取通知文字或畫面
 - 音樂律動第一次啟用時，macOS 會要求「麥克風」權限
 - 使用 Apple 私有的 CoreBrightness 介面，未來 macOS 更新可能需要調整
 
